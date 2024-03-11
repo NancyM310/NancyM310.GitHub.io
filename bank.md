@@ -1,5 +1,5 @@
-# Bank Project
-
+# Bank Project<br>
+![alt text](images/World Bank Project.png) <br><br>
 
 This is my bank project. In this SQL project, I leverage PostgreSQL to explore into a bank dataset, addressing diverse inquiries. 
 
